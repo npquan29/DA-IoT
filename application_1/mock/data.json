@@ -1,0 +1,34 @@
+[
+  {
+    "position": "21.028511, 105.804817",
+    "status": "Safe",
+    "temperature": 30,
+    "atmosphere": 1013,
+    "humidity": 60,
+    "oxygen": 21
+  },
+  {
+    "position": "20.998332, 105.869017",
+    "status": "Injured",
+    "temperature": 28,
+    "atmosphere": 1009,
+    "humidity": 65,
+    "oxygen": 20
+  },
+  {
+    "position": "21.024666, 105.841648",
+    "status": "Unconscious",
+    "temperature": 29,
+    "atmosphere": 1011,
+    "humidity": 70,
+    "oxygen": 19
+  },
+  {
+    "position": "20.997889, 105.799098",
+    "status": "Stable",
+    "temperature": 31,
+    "atmosphere": 1012,
+    "humidity": 55,
+    "oxygen": 22
+  }
+]
